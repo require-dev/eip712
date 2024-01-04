@@ -1,5 +1,5 @@
 {
-    "name": "sleepfinance/eip712",
+    "name": "rcxcob2016/eip712",
     "description": "Generate Eip712 Hashes for signing",
     "type": "library",
     "license": "MIT",
